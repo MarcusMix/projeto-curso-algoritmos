@@ -1,5 +1,5 @@
 
-   var valor01, valor02, resultado, operacao
+     var valor01, valor02, resultado, operacao
 
    function acaoBotao(params) {
     valor01 = prompt("Digite o primeiro valor: ")
