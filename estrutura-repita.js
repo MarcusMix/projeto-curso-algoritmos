@@ -1,6 +1,6 @@
 
 
-   function acaoBotao() {
+    function acaoBotao() {
     var sairLoop, valor01, valor02
     do{
         valor01 = prompt("Digite o primeiro valor: ")

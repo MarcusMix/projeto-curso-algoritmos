@@ -1,5 +1,5 @@
 
-function acaoBotao() {
+ function acaoBotao() {
     var idade, limite, contador
     limite = prompt("Digite a quantidade de vezes que vai ser verificado a idade: ")
     contador = 0
