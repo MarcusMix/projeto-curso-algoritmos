@@ -1,5 +1,5 @@
 
-    var nome, nota01, nota02, passou;
+     var nome, nota01, nota02, passou;
    passou = false
 
    nome = prompt("Digite nome  01 do aluno:")

@@ -1,6 +1,6 @@
 
 
-   var nome, nota01, nota02;
+    var nome, nota01, nota02;
    nome = prompt("Digite nome  01 do aluno:")
    nota01 = prompt("Digite a nota  01 do aluno:")
    nota02 = prompt("Digite a nota  02 do aluno:")
